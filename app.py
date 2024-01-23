@@ -2,7 +2,7 @@ import autogen
 
 config_list = [
     {
-        'model': 'gpt-4',
+        'model': 'mistral',
         'api_key': 'API_KEY'
     }
 ]
